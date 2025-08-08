@@ -152,7 +152,7 @@ Created a kiosk-mode feedback app deployed in major stores and malls:
 
 - 📫 Email: [omer.habib26@gmail.com](mailto:omer.habib26@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/omerhabib](https://linkedin.com/in/omerhabib)  
-- 🧑‍💻 Portfolio/Resume: Available upon request
+- 🧑‍💻 Portfolio/Resume: [omerhabib26.github.io](https://omerhabib26.github.io/)
 
 ---
 
