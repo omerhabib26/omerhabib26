@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omer Habib
+# 👋 Hi, I'm Moin Omer Habib
 
 **Senior Android Engineer**  
 🚀 Kotlin | Jetpack Compose | MVVM & MVI | Modular Apps | CI/CD & Scalable Architecture | edTech & finTech
