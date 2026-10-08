@@ -6,7 +6,7 @@
 
 Android is my core specialization. My experience also spans cross-platform apps, hybrid integrations, PHP APIs, and Node.js backend development.
 
-[Portfolio](https://omerhabib26.github.io/) · [Download CV](https://omerhabib26.github.io/assets/Omer_Habib_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/omerhabib) · [Email](mailto:omer.habib26@gmail.com)
+[Portfolio](https://omerhabib26.github.io/) · [Download CV](https://omerhabib26.github.io/assets/Omer_Habib_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/omerhabib) · [Email](mailto:omer.habib26@gmail.com) · [WhatsApp Chat](https://wa.me/923434444886)
 
 ---
 
@@ -97,6 +97,7 @@ I value clear contracts, recoverable failures, thoughtful code reviews, and rele
 Interested in mobile engineering, architecture, or an international product team? Let's connect.
 
 - **Email:** [omer.habib26@gmail.com](mailto:omer.habib26@gmail.com)
+- **WhatsApp:** [Chat with me](https://wa.me/923434444886)
 - **Phone:** [+92 343 4444886](tel:+923434444886)
 - **LinkedIn:** [linkedin.com/in/omerhabib](https://www.linkedin.com/in/omerhabib)
 - **Portfolio:** [omerhabib26.github.io](https://omerhabib26.github.io/)
