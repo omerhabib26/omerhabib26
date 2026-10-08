@@ -1,168 +1,103 @@
-# 👋 Hi, I'm Moin Omer Habib
+# Hi, I'm Moin Omer Habib
 
-**Senior Android Engineer**  
-🚀 Kotlin | Jetpack Compose | MVVM & MVI | Modular Apps | CI/CD & Scalable Architecture | edTech & finTech
+### Senior Mobile Engineer · Mobile Architecture & Backend Development
 
----
+**10 years of experience** building and modernizing mobile products used by millions.
 
-## 👨‍💻 About Me
+Android is my core specialization. My experience also spans cross-platform apps, hybrid integrations, PHP APIs, and Node.js backend development.
 
-I'm a **Senior Android Developer** with over 8 years of experience building scalable, performant, and user-centric apps in **EdTech**, **FinTech**, and survey platforms. I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, with a strong focus on **modularization**, **CI/CD**, and **clean code principles**.
-
-I've contributed to global-impact apps and platforms used by **millions of users**, collaborating with international teams and companies such as **edX**, **Open edX**, **2U.com**, and the **World Bank**.
-
-## 👨‍💻 What I Do
-
-- 🏗️ Architect and scale **modular Kotlin codebases** following **Clean Architecture** and **SOLID principles**
-- 🧩 Lead **migration of legacy code** to modern **Jetpack Compose UIs**, improving performance and maintainability
-- 🚀 Drive **CI/CD automation** using GitHub Actions, Bitrise, and Fastlane for faster and more reliable app delivery
-- 🌍 Collaborate with **remote-first, cross-functional teams** across the globe (PMs, designers, QA, and backend engineers)
-- 🧑‍🏫 Mentor junior engineers, conduct code reviews, and lead critical **technical decision-making**
-- 🧼 Advocate for **Clean Code practices**, test-driven development (TDD), and maintainable software design
-- 📊 Optimize apps for performance, stability (99.2%+ crash-free), and scalability
+[Portfolio](https://omerhabib26.github.io/) · [Download CV](https://omerhabib26.github.io/assets/Omer_Habib_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/omerhabib) · [Email](mailto:omer.habib26@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
+Based in Lahore, Pakistan, I work with international product teams through Arbisoft Global. I focus on maintainable architecture, reliable releases, and mobile experiences that work well under real production conditions.
 
-### 💻 Languages  
-Kotlin • Java • Swift • Python • XML • SQL • JSON  
+My work includes Java → Kotlin → Jetpack Compose migrations, modular architecture, offline behavior, WebView integrations, performance improvements, and mentoring. I also contribute to the Open edX Android ecosystem.
 
-### 🧱 Architecture & Patterns  
-MVVM • MVI • Clean Architecture • Modularization • Repository Pattern • SOLID Principles  
+**Open to Senior Mobile and Android opportunities with European teams—remote from Pakistan, or relocation with sponsorship.**
 
-### 🎨 UI & Frameworks  
-Jetpack Compose •  Material Design 3 • XML Layouts • ConstraintLayout • Custom Views  
+## What I bring
 
-### ⚙️ Dependency Injection  
-Hilt • Dagger 2 • Koin  
+- **Mobile architecture:** Clear module boundaries, MVVM, Clean Architecture, repository patterns, and predictable state ownership.
+- **Production Android delivery:** Kotlin, Jetpack Compose, Coroutines/Flow, dependency injection, testing, and Google Play releases.
+- **Cross-platform and hybrid experience:** React Native, Ionic/Angular, and Android WebView integrations with JavaScript-to-native interaction.
+- **Backend development:** PHP REST APIs and Moodle integration, plus Node.js work on an ERP reimbursement claims portal.
+- **Engineering ownership:** Code reviews, mentoring, GitHub Actions CI/CD, staged rollouts, and production monitoring.
+- **Reliability at scale:** Experience maintaining 99.2%+ crash-free sessions on the edX Android app.
 
-### 🔄 Async & Reactive  
-Coroutines • Flow • StateFlow • SharedFlow • LiveData • RxJava  
+## Core technologies
 
-### 🌐 Networking & APIs  
-Retrofit • OkHttp • GraphQL • REST • WebSockets  
+| Area | Technologies |
+| --- | --- |
+| Native Android | Kotlin, Java, Jetpack Compose, XML, Material 3 |
+| Architecture | MVVM, Clean Architecture, modularization, repository pattern, SOLID |
+| Cross-platform & hybrid | React Native, Ionic, Angular, WebView, JavaScript |
+| Backend | Node.js, PHP, REST APIs, Moodle integration |
+| Async & dependency injection | Coroutines, Flow, RxJava, Hilt, Dagger, Koin |
+| Networking & storage | Retrofit, OkHttp, Room, SQLite, DataStore, WorkManager |
+| Testing | JUnit, MockK, Mockito, Espresso, screenshot testing |
+| Delivery & monitoring | GitHub Actions, Play Console, Firebase Crashlytics, Firebase Analytics, Segment, FullStory |
+| Platform integrations | In-app purchases, deep links, social sign-in, notifications, video playback, localization |
 
-### 🗄️ Local Storage  
-Room • DataStore • SharedPreferences • SQLite  
+## Selected work
 
-### 🔐 Security & Auth  
-OAuth 2.0 • JWT • SSO • Biometric Auth • EncryptedStorage • SSO(Social Login)
+### edX / Open edX Android
+**Native Android · EdTech**
 
-### 🧪 Testing  
-JUnit • Espresso • MockK • Mockito • Robolectric • Screenshot Testing • Firebase Test Lab  
+Worked on a global mobile learning experience serving millions of users.
 
-### 🚀 CI/CD & DevOps  
-GitHub Actions • Bitrise • Fastlane • Gradle • Firebase App Distribution  
+- Modernized Java code and XML screens with Kotlin and Jetpack Compose.
+- Contributed to modularization, MVVM, Clean Architecture, and repository layers.
+- Delivered features across course content, discussions, in-app purchases, authentication, notifications, and video playback.
+- Integrated WebView course content with JavaScript injection, input handling, file uploads, HTML updates, and offline support.
+- Supported release automation, staged rollouts, analytics, and production stability.
 
-### 📈 Analytics & Monitoring  
-Firebase Analytics • Crashlytics • Sentry • A/B Testing • LeakCanary • Firebase Performance • Optimizely  
+[Open edX Android repository](https://github.com/openedx/openedx-app-android)
 
-### 📦 Tools & Utilities  
-Postman • Firebase Suite • Play Console • Figma • Proguard • Lint • Segment • Braze • Branch.io • FullStory • Google Maps • Calendar APIs • Amazon S3 
+### Cheetay Delivery
+**Native Android · Delivery & Logistics**
 
-### 🔧 Platform Features  
-Localisation • Push Notifications • Deeplinks • Social Login • Material Design 3
+Modernized a delivery app through Java-to-Kotlin migration, MVVM, RxJava, and Hilt, with a focus on maintainability and performance.
 
-### 💳 Payments & Purchases  
-In-App Purchases • 3rd Party Payment Integration  
+### CERP Survey
+**Native Android · Offline Data Collection**
 
-### 🌍 Collaboration & Process  
-Git • GitHub • GitLab • Bitbucket • SourceTree • Jira • Confluence  
-Agile Methodologies (Scrum, Kanban) • Cross-team collaboration • Project Estimation
+Worked on an offline-first survey app with Room, Retrofit, secure Amazon S3 uploads, and localization for field use.
 
+### Sentimeter Kiosk
+**Native Android · Customer Feedback**
 
+Built kiosk app functionality using MVVM, Firebase, and localization.
 
-## 🏆 Key Highlights
+### Schoolgram
+**Hybrid Apps · PHP Backend**
 
-- 🎯 Maintained 99.2%+ crash-free rate across multiple Android apps  
-- 🚚 Migrated large-scale production apps from Java to Kotlin and from XML to Jetpack Compose
-- 👨‍🏫 Mentored junior developers and led **Jetpack Compose migration initiatives**   
-- 📦 Delivered mission-critical Android features for global platforms in **edTech** and **finTech**  
-- 🔁 Led CI/CD adoption across teams, reducing release friction by 40%  
-- 🌍 Worked on remote-first teams across EU, APAC, and MENA regions
+Worked with Ionic and Angular on a hybrid application, alongside PHP REST APIs and Moodle integration.
 
----
+### Workstream
+**Cross-Platform Mobile**
 
-### 📢 Open Source Contributions
+Contributed to mobile functionality using React Native.
 
-#### 🧑‍💻 Open edX Android App
+### ERP Reimbursement Claims Portal
+**Node.js · Backend Development**
 
-Contributed to the official [Open edX](https://openedx.org) open-source Android app, used by millions of learners worldwide.
+Worked on a reimbursement claims portal covering expenses, claims, and authentication workflows.
 
-- Migrated legacy code to **Jetpack Compose** and **Kotlin**
-- Improved app performance and accessibility across diverse devices
-- Participated in issue discussions and submitted PRs on the [openedx-app-android GitHub repository](https://github.com/openedx/openedx-app-android)
-- Worked on **modularization** and **clean architecture** refactors for enhanced scalability
+## Open source & collaboration
 
+I maintain and contribute to Open edX Android and review mobile code within the Open edX and Arbisoft communities. My contributions include Kotlin and Compose migration, architecture improvements, performance, and accessibility.
 
-## 📦 Featured Projects
+I value clear contracts, recoverable failures, thoughtful code reviews, and releases that teams can operate confidently.
 
-### 📱 edX Android App (Open edX)
-**Role**: Senior Android Engineer | **Domain**: edTech  
-**Stack**: Kotlin, Jetpack Compose, MVVM, Modularization, Retrofit, Firebase  
+## Get in touch
 
-Built and maintained the mobile learning experience for one of the world’s largest online learning platforms:
-- Migrated legacy Java UI screens to **Jetpack Compose** and modularized architecture.
-- Improved code readability and test coverage with **MVVM** and repository layers.
-- Introduced **lazy loading** and pagination in course content views.
-- Integrated **video playback analytics** and user engagement tracking.
-- Worked closely with the global Open edX developer community and contributed to upstream improvements.
+Interested in mobile engineering, architecture, or an international product team? Let's connect.
 
----
-
-### 🚚 Cheetay Android App
-**Role**: Lead Android Developer | **Domain**: Food Delivery, Logistics  
-**Stack**: Kotlin, Clean Architecture, MVVM, Firebase, Google Maps  
-
-Modernized and stabilized a high-traffic delivery platform in Pakistan:
-- Led the transition from Java to Kotlin and refactored into **clean architecture modules**.
-- Reduced crash rate from ~6% to **under 0.8%** by implementing rigorous QA practices.
-- Enhanced cart, address, and checkout workflows with better caching and error handling.
-- Worked with the backend and product teams to optimize **real-time rider tracking**.
-
----
-
-### 📊 CERP Survey App (Center for Economic Research)
-**Role**: Android Developer | **Domain**: Data Collection, Research  
-**Stack**: Kotlin, MVVM, Room, BLE, Offline Storage  
-
-Built a custom Android app for field data collection used by surveyors in rural areas:
-- Designed the app for **offline-first usage** with encrypted Room database syncing to the server.
-- Integrated **BLE device support** for capturing biometric and environmental data.
-- Handled complex UI flows including skip-logic, repeat groups, and conditional branching.
-- Supported multi-language UI and dynamic form generation from JSON.
-
----
-
-### 🧾 Sentimeter Feedback Kiosk App
-**Role**: Android Engineer | **Domain**: Retail, Customer Experience  
-**Stack**: Kotlin, Firebase, Dagger, Touchscreen Kiosk  
-
-Created a kiosk-mode feedback app deployed in major stores and malls:
-- Locked to a **single-app mode** with admin unlock and remote config support.
-- Enabled **real-time survey updates**, Firebase remote logging, and result syncing.
-- Implemented custom UI widgets for emoji ratings, NPS scoring, and category-based feedback.
-- Designed for robust offline operation with delayed sync on network availability.
-
----
-
-## 🤝 Let's Connect
-
-- 📫 Email: [omer.habib26@gmail.com](mailto:omer.habib26@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/omerhabib](https://linkedin.com/in/omerhabib)  
-- 🧑‍💻 Portfolio/Resume: [omerhabib26.github.io](https://omerhabib26.github.io/)
-
----
-
-### 📌 Currently Exploring Opportunities In:
-
-- **FinTech**, **EdTech**, **On-Demand Delivery**, **Smart Home**, and **Developer Tools**
-- **Android Platform Teams**, **Product Engineering**, **Architecture & Tooling**, and **Tech Leadership Roles**
-- **Remote**, **Hybrid**, **Onsite**, or **Relocation** opportunities
-
-
----
-
-> _“Build with empathy. Scale with discipline. Learn continuously.”_
+- **Email:** [omer.habib26@gmail.com](mailto:omer.habib26@gmail.com)
+- **Phone:** [+92 343 4444886](tel:+923434444886)
+- **LinkedIn:** [linkedin.com/in/omerhabib](https://www.linkedin.com/in/omerhabib)
+- **Portfolio:** [omerhabib26.github.io](https://omerhabib26.github.io/)
+- **CV:** [Download PDF](https://omerhabib26.github.io/assets/Omer_Habib_Resume.pdf)
