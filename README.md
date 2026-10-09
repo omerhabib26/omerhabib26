@@ -1,6 +1,6 @@
 # Hi, I'm Moin Omer Habib
 
-### Senior Mobile Engineer · Mobile Architecture & Backend Development
+### Senior Mobile Engineer · AI-Assisted Development · Mobile Architecture & Backend
 
 **10 years of experience** building and modernizing mobile products used by millions.
 
@@ -40,6 +40,12 @@ My work includes Java → Kotlin → Jetpack Compose migrations, modular archite
 | Testing | JUnit, MockK, Mockito, Espresso, screenshot testing |
 | Delivery & monitoring | GitHub Actions, Play Console, Firebase Crashlytics, Firebase Analytics, Segment, FullStory |
 | Platform integrations | In-app purchases, deep links, social sign-in, notifications, video playback, localization |
+
+## AI-assisted engineering
+
+My [AI-Assisted Mobile Engineering Playbook](https://github.com/omerhabib26/omerhabib) demonstrates seven reusable agent skills for planning, architecture and API contracts, review, testing, telemetry debugging, and delivery.
+
+The working demo combines Kotlin/Jetpack Compose, a Node.js API, mobile-browser UI tests, Conventional Commits, pull requests, and GitHub Actions CI/CD. Mermaid diagrams explain state ownership, safe retries, delivery, and debugging. Android architecture and testing guidance is inspired by lennonpetrick/android-engineering-skills, with attribution.
 
 ## Selected work
 
