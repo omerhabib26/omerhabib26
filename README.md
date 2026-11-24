@@ -2,7 +2,7 @@
 
 ### Senior Mobile Engineer · AI-Assisted Development · Mobile Architecture & Backend
 
-**10 years of experience** building and modernizing mobile products used by millions.
+**10 years of experience** building and modernizing mobile products used by 5M+ users across products. Currently leading the [Schoolgram](https://schoolgram.io/) mobile app and backend.
 
 Android is my core specialization. My experience also spans cross-platform apps, hybrid integrations, PHP APIs, and Node.js backend development.
 
@@ -12,9 +12,9 @@ Android is my core specialization. My experience also spans cross-platform apps,
 
 ## About me
 
-Based in Lahore, Pakistan, I work with international product teams through Arbisoft Global. I focus on maintainable architecture, reliable releases, and mobile experiences that work well under real production conditions.
+Based in Lahore, Pakistan, I am a Senior Mobile Engineer at Arbisoft Global, working with international product teams. Since September 2025 I have led the Schoolgram mobile app and backend. I focus on maintainable architecture, reliable releases, and mobile experiences that work well under real production conditions.
 
-My work includes Java → Kotlin → Jetpack Compose migrations, modular architecture, offline behavior, WebView integrations, performance improvements, and mentoring. I also contribute to the Open edX Android ecosystem.
+My work includes Java → Kotlin → Jetpack Compose migrations, modular architecture, offline behavior, WebView integrations, performance improvements, and mentoring. From 2020 to 2025 I was lead Android engineer on the edX mobile team.
 
 **Open to Senior Mobile and Android opportunities with European teams—remote from Pakistan, or relocation with sponsorship.**
 
@@ -25,7 +25,7 @@ My work includes Java → Kotlin → Jetpack Compose migrations, modular archite
 - **Cross-platform and hybrid experience:** React Native, Ionic/Angular, and Android WebView integrations with JavaScript-to-native interaction.
 - **Backend development:** PHP REST APIs and Moodle integration, plus Node.js work on an ERP reimbursement claims portal.
 - **Engineering ownership:** Code reviews, mentoring, GitHub Actions CI/CD, staged rollouts, and production monitoring.
-- **Reliability at scale:** Experience maintaining 99.2%+ crash-free sessions on the edX Android app.
+- **Reliability at scale:** Maintained 99.2%+ crash-free sessions on the edX Android app.
 
 ## Core technologies
 
@@ -49,10 +49,15 @@ The working demo combines Kotlin/Jetpack Compose, a Node.js API, mobile-browser 
 
 ## Selected work
 
-### edX / Open edX Android
-**Native Android · EdTech**
+### Schoolgram · Sep 2025 – present
+**Mobile & Backend Lead · EdTech**
 
-Worked on a global mobile learning experience serving millions of users.
+Leading the mobile app and backend for an interactive learning platform used by schools, students, parents, and homeschooling families on Android and iOS. I own mobile and backend architecture, API contracts, code review, releases, and production support. Earlier work on the product included Ionic/Angular and PHP REST APIs with Moodle integration.
+
+### edX / Open edX Android · 2020 – 2025
+**Lead Android Engineer · EdTech**
+
+Led Android work on a global mobile learning experience serving millions of users.
 
 - Modernized Java code and XML screens with Kotlin and Jetpack Compose.
 - Contributed to modularization, MVVM, Clean Architecture, and repository layers.
@@ -77,11 +82,6 @@ Worked on an offline-first survey app with Room, Retrofit, secure Amazon S3 uplo
 
 Built kiosk app functionality using MVVM, Firebase, and localization.
 
-### Schoolgram
-**Hybrid Apps · PHP Backend**
-
-Worked with Ionic and Angular on a hybrid application, alongside PHP REST APIs and Moodle integration.
-
 ### Workstream
 **Cross-Platform Mobile**
 
@@ -94,7 +94,7 @@ Worked on a reimbursement claims portal covering expenses, claims, and authentic
 
 ## Open source & collaboration
 
-I maintain and contribute to Open edX Android and review mobile code within the Open edX and Arbisoft communities. My contributions include Kotlin and Compose migration, architecture improvements, performance, and accessibility.
+I contributed to Open edX Android and reviewed mobile code within the Open edX community, and I review mobile code within Arbisoft teams. My contributions include Kotlin and Compose migration, architecture improvements, performance, and accessibility.
 
 I value clear contracts, recoverable failures, thoughtful code reviews, and releases that teams can operate confidently.
 
